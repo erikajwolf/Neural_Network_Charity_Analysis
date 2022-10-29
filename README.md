@@ -16,7 +16,7 @@
 **-Were you able to achieve the target model performance?** No, the best the model could produce was 46.7%
 **-What steps did you take to try and increase model performance?** STATUS and SPECIAL_CONSIDERATIONS columns were dropped. Neurons were increased and number of layers were increased.
 
-![quesiton6](quesiton6.png)
+![question6](question6.png)
 
 ## Summary
 
