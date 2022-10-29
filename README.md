@@ -10,9 +10,13 @@
 
 ### Compiling, Training, and Evaluating the Model
 **-How many neurons, layers, and activation functions did you select for your neural network model, and why?** Thhere were 120 neurons in layer one with relu activation, 80 neurons in layer 2 with relu activation, 40 neurons in layer 3 and 20 neurons in layer 4 (both with sigmoid activation). 
+
+![quesiton4](question4.png)
+
 **-Were you able to achieve the target model performance?** No, the best the model could produce was 46.7%
 **-What steps did you take to try and increase model performance?** STATUS and SPECIAL_CONSIDERATIONS columns were dropped. Neurons were increased and number of layers were increased.
 
+![quesiton6](quesiton6.png)
 
 ## Summary
 
