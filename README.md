@@ -14,5 +14,7 @@
 **-What steps did you take to try and increase model performance?** STATUS and SPECIAL_CONSIDERATIONS columns were dropped. Neurons were increased and number of layers were increased.
 
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary
+
+There was a 72.7% accuracy in the relu and sigmoid activations.
 
